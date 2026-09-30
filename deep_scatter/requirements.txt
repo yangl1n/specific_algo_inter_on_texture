@@ -1,0 +1,17 @@
+matplotlib==3.10.8
+numpy==2.4.3
+pandas==3.0.1
+Pillow==12.1.1
+scipy==1.17.1
+torch==2.5.1
+torchvision==0.20.1
+h5py
+huggingface_hub
+kagglehub
+kymatio
+medmnist
+pyarrow
+seaborn
+pytest
+# datasets
+# hf_transfer
